@@ -1,6 +1,2 @@
-.inline {
-    display: inline-block;
-}
-.container{
-    
-}
+th{background-color:green;}
+table{border: 1px solid green;margin-left:20;}
